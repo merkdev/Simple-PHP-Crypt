@@ -8,11 +8,11 @@ This tiny PHP class helps you to generating YouTube style hash from an Integer.
 ## Usage
 ### Hash
 ```php
-Crypt::hash(9919)
+MerkJS\Crypt::hash(9919)
 ```
 ### UnHash
 ```php
-Crypt::unhash("CKAr6PzmUP")
+MerkJS\Crypt::unhash("CKAr6PzmUP")
 ```
 
 ## Example
