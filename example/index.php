@@ -1,5 +1,7 @@
 <?php
 
+	use MerkJS\Crypt;
+
 	require dirname(__DIR__).'/src/crypt.php';
 
 	$integer = 123123;

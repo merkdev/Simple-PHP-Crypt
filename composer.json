@@ -19,6 +19,8 @@
 		"php": ">=5.6.0"
 	},
 	"autoload": {
-		"files": ["src/crypt.php"]
+		"psr-4": {
+			"MerkJS\\": "src/crypt"
+		}
 	}
 }

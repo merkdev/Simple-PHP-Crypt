@@ -1,5 +1,7 @@
 <?php
 
+namespace MerkJS;
+
 class Crypt {
 
 	/* Key: Next prime greater than 62 ^ n / 1.618033988749894848 */
