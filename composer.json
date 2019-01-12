@@ -20,5 +20,6 @@
 	},
 	"autoload": {
 		"files": ["src/crypt.php"]
-	}
+	},
+	"minimum-stability": "stable"
 }
