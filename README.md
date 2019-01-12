@@ -3,7 +3,7 @@ Simple PHP Crypt
 
 This tiny PHP class helps you to generating YouTube style hash from an Integer.
 
-**Note** : This library requires BC-Math library [BCMath Arbitrary Precision Mathematics](http://php.net/manual/en/book.bc.php)
+**Note** : This script requires BC-Math library [BCMath Arbitrary Precision Mathematics](http://php.net/manual/en/book.bc.php)
 
 ## Usage
 ### Hash
