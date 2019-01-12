@@ -1,19 +1,24 @@
 {
 	"name": "merkjs/simple-php-crypt",
-	"description": "Converts an integer to YouTube style (like) crypted string. Simple crypt class for PHP - requires bc library (BCMath Arbitrary Precision Mathematics) -> http://php.net/manual/en/book.bc.php",
-	"keywords": ["crypt", "php"],
+	"description": "Converts an integer to YouTube style (like) crypted string. Simple crypt class for PHP",
+	"keywords": ["crypt", "php", "hash"],
+	"homepage": "https://www.github.com/merkjs/Simple-PHP-Crypt",
 	"license": "MIT",
 	"authors": [
 		{
 			"name": "Kamer DINC",
-			"email": "merkjs@aol.com"
+			"email": "merkjs@aol.com",
+			"homepage": "https://www.github.com/merkjs"
 		}
 	],
 	"support": {
 	"source": "https://github.com/merkjs/simple-php-crypt",
 	"issues": "https://github.com/merkjs/simple-php-crypt/issues"
 	},
+	"require": {
+		"php": ">=5.6.0"
+	},
 	"autoload": {
-	"files": ["src/crypt.php"]
+		"files": ["src/crypt.php"]
 	}
 }
