@@ -21,6 +21,9 @@
 	"autoload": {
 		"psr-4": {
 			"MerkJS\\": "src/"
-		}
+		},
+		"files": [
+			"src/crypt.php"
+		]
 	}
 }
