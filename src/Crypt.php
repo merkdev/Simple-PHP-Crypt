@@ -1,6 +1,6 @@
 <?php
 
-	namespace MerkJS;
+	namespace MerkDEV;
 
 	class Crypt {
 

@@ -1,6 +1,6 @@
 <?php
 
-	use MerkJS\Crypt;
+	use MerkDEV\Crypt;
 
 	require dirname(__DIR__).'/src/crypt.php';
 
